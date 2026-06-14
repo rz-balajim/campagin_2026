@@ -1,0 +1,20 @@
+{
+  "name": "vote-balaji",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Vote Balaji — Iron Man themed interactive campaign site for the Stand-out Performer Award 2025-26 at Roanuz.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
