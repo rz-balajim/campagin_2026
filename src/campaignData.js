@@ -74,162 +74,162 @@ export const teams = [
 export const colleagues = [
   /* ---- Command Deck (leadership) ---- */
   {
-    id: 'anto', name: 'Anto Binish K', role: 'CEO & Founder', team: 'command', persona: 'leader',
-    greeting: 'Hello Boss, Its been while since we had a connect, I hope I been perfoming above your expectations.',
+    id: 'anto', name: 'Anto', role: 'CEO & Founder', team: 'command', persona: 'leader',
+    greeting: "Hello Boss, it's been a while since we had a connect. I hope I've been performing above your expectations.",
   },
 
   /* ---- Team 8H ---- */
   {
-    id: 'arun', name: 'Arun Baskaran', role: 'Tech Lead', team: '8h', persona: 'reviewer',
-    greeting: 'Hi Captain, Thanks for trusting my features and deployments in Booking-engine, I will make sure once agiain I will keep up my same perfomence.',
+    id: 'arun', name: 'Arun', role: 'Tech Lead', team: '8h', persona: 'reviewer',
+    greeting: "Hi Captain, thanks for trusting my features and deployments in the Booking Engine. I'll make sure I keep up the same performance.",
   },
   {
-    id: 'jayasuriya', name: 'Jayasuriya Venkatesan', role: 'Project Manager', team: '8h', persona: 'lead',
-    greeting: "Hi Jai's, Thanks for getting us the time we required for the features, Hope I never disatisfied you with the deadlines.",
+    id: 'jayasuriya', name: 'Jayasuriya', role: 'Project Manager', team: '8h', persona: 'lead',
+    greeting: "Hi Jai, thanks for always getting us the time we needed for features. I hope I've never disappointed you on deadlines.",
   },
   {
-    id: 'devakrishnan', name: 'Devakrishnan K V', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'HI Deva, The Last Man of DSM, I relly admire your technical knowleadge on different stack.',
+    id: 'devakrishnan', name: 'Deva', role: 'Software Engineer', team: '8h', persona: 'peer',
+    greeting: "Hi Deva, the Last Man of DSM! I really admire your technical knowledge across different stacks. Happy to see your growth.",
   },
   {
     id: 'godwin', name: 'Godwin', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'Well, well, well... if it isn’t {name}. May the best dev win, friend. 😏',
+    greeting: "Heyyy Partner! Thanks for making the work even more fun and easy. Wishing you the best in this contest — and yeah, let's solve more things together.",
   },
   {
-    id: 'anil', name: 'Anil Tripathi', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'Hii Broo, Glad to have someone like a brother on my team, and alchoilic guru.',
+    id: 'anil', name: 'Anil', role: 'Software Engineer', team: '8h', persona: 'peer',
+    greeting: "Hii Broo, glad to have someone like a brother on my team — and my alcoholic guru at that.",
   },
   {
     id: 'nirmal', name: 'Nirmal', role: 'Software Engineer', team: '8h', persona: 'peer',
     greeting: 'Hey {name}, deploy buddy. Pull up a chair — the demo is about to begin.',
   },
   {
-    id: 'gayathri', name: 'Gayathri Nakkeeran', role: 'Software Engineer', team: '8h', persona: 'peer',
+    id: 'gayathri', name: 'Gayathri', role: 'Software Engineer', team: '8h', persona: 'peer',
     greeting: 'Welcome {name}! The arc reactor glows a little brighter when 8H shows up.',
   },
   {
-    id: 'regina', name: 'Regina Sherlin', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'Hi {name}, 8H represent. Grab a coffee, this won’t take long. 🚀',
+    id: 'regina', name: 'Regina', role: 'Software Engineer', team: '8h', persona: 'peer',
+    greeting: "Hi {name}, 8H represent. Grab a coffee, this won't take long. 🚀",
   },
   {
-    id: 'nandhini', name: 'Nandhini Devi A', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'Hi Devi, Hope enjoying your mairage life, you guys are being my cute couples on my instagram feeds.',
+    id: 'nandhini', name: 'Nandhini', role: 'Software Engineer', team: '8h', persona: 'peer',
+    greeting: "Hi Devi, hope you're enjoying married life! You two are the cutest couple on my Instagram feed.",
   },
   {
-    id: 'arjun', name: 'KM Arjun Parameshwar', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'Hi Brooo, mairage kapram ale romba bright ahh marita, un thambiya nenachi oru vote potudu papom.',
+    id: 'arjun', name: 'Arjun', role: 'Software Engineer', team: '8h', persona: 'peer',
+    greeting: "Hi Brooo, marriage kapram ale romba bright ah marita, un thambiya nenachi oru vote potudu papom.",
   },
   {
-    id: 'ragul', name: 'Ragul P', role: 'Software Engineer', team: '8h', persona: 'peer',
-    greeting: 'hey Ragul, Congrats for the new bike, aduthu pinnadi ukkara ala pathacha??',
+    id: 'ragul', name: 'Ragul', role: 'Software Engineer', team: '8h', persona: 'peer',
+    greeting: "Hey Ragul, congrats on the new bike! Aduthu pinnadi ukkara ala pathacha??",
   },
   {
-    id: 'janarthanan', name: 'Janarthanan Shanmugam', role: 'Software Engineer', team: '8h', persona: 'peer',
+    id: 'janarthanan', name: 'Janarthanan', role: 'Software Engineer', team: '8h', persona: 'peer',
     greeting: 'Hey {name}! 8H in the house. Let me walk you through the highlight reel.',
   },
   {
-    id: 'channa-kishore', name: 'Channa Kishore Reddy', role: 'IT Support Specialist', team: '8h', persona: 'ops',
-    greeting: 'Hi {name}! You keep the machines alive, I keep the bookings flowing. Teamwork. 🔧',
+    id: 'channa-kishore', name: 'Kishore', role: 'IT Support Specialist', team: '8h', persona: 'ops',
+    greeting: "Hey man! Your work speaks a lot — probably that's why you speak less, I guess. All the best for your campaign, Kishore!",
   },
   {
-    id: 'gomathisankar', name: 'Gomathisankar K', role: 'IT Ops Specialist', team: '8h', persona: 'ops',
-    greeting: 'Hey {name}! Uptime hero meets feature hero. Let’s talk numbers.',
+    id: 'gomathisankar', name: 'Gomathisankar', role: 'IT Ops Specialist', team: '8h', persona: 'ops',
+    greeting: 'Hey {name}! Uptime hero meets feature hero. Let\'s talk numbers.',
   },
 
   /* ---- Team Tero ---- */
   {
-    id: 'naveen', name: 'Potnuru Naveen', role: 'Tech Lead', team: 'tero', persona: 'lead',
-    greeting: 'Welcome, {name} — one tech lead to another, you’ll appreciate clean end-to-end delivery.',
+    id: 'naveen', name: 'Naveen', role: 'Tech Lead', team: 'tero', persona: 'lead',
+    greeting: "Welcome, {name} — one tech lead to another, you'll appreciate clean end-to-end delivery.",
   },
   {
-    id: 'thamizharasan', name: 'Thamizharasan C D K', role: 'Software Engineer', team: 'tero', persona: 'peer',
-    greeting: 'Hi Thamizh. recently I started to like you carom games, they are really funny.',
+    id: 'thamizharasan', name: 'Thamizh', role: 'Software Engineer', team: 'tero', persona: 'peer',
+    greeting: "Hi Thamizh, I really admire the way you carry yourself and your calmness, both personally and professionally. And playing carrom with you is really fun.",
   },
   {
-    id: 'jervin', name: 'Jervin Matthew A', role: 'Software Engineer', team: 'tero', persona: 'peer',
-    greeting: 'Hey broo, namba tha inga mass katurom.',
+    id: 'jervin', name: 'Jervin', role: 'Software Engineer', team: 'tero', persona: 'peer',
+    greeting: "Hey broo, namba tha inga mass katurom.",
   },
   {
-    id: 'karthik', name: 'Karthik V', role: 'Software Engineer', team: 'tero', persona: 'peer',
-    greeting: 'Hi broo, un carom skills ku na adimai.',
+    id: 'karthik', name: 'Karthik', role: 'Software Engineer', team: 'tero', persona: 'peer',
+    greeting: "Hi bro, I really liked the effort you put into the Women's Day speech preparation — and un carom skills ku na adimai.",
   },
   {
-    id: 'sivadharini', name: 'Sivadharini Saravanan', role: 'Software Engineer', team: 'tero', persona: 'peer',
-    greeting: 'Heyyy Dharini, Your laughter is the cutest and loudlest i every heard.',
+    id: 'sivadharini', name: 'Sivadharini', role: 'Software Engineer', team: 'tero', persona: 'peer',
+    greeting: "Heyyy Dharini, your laughter is the cutest and loudest I've ever heard.",
   },
   {
-    id: 'abhiram', name: 'Abhiram N Ajith', role: 'Software Engineer', team: 'tero', persona: 'peer',
-    greeting: 'Hey {name}! Team Tero in the building. Buckle up for the stats.',
+    id: 'abhiram', name: 'Abhiram', role: 'Software Engineer', team: 'tero', persona: 'peer',
+    greeting: "Hey Abhi! I would have been even happier if you'd joined us in this campaign. Nevertheless, I really admire your dedication. And yes — now you're a dedicated fiancé as well. Happy for you, bro!",
   },
   {
     id: 'tamil-selvan', name: 'Tamil Selvan', role: 'Software Engineer', team: 'tero', persona: 'peer',
-    greeting: 'Hi {name}! Tero crew. Let me show you what a campaign looks like. ⚡',
+    greeting: "Hi Tamil, I really enjoyed meeting you during our interview — you came across as remarkably calm and confident!",
   },
 
   /* ---- Team Sports ---- */
   {
-    id: 'ram-ganesh', name: 'K Ram Ganesh', role: 'Product Manager', team: 'sports', persona: 'pm',
-    greeting: "Hii Ram, I'm realy sorry for missing out you in the RPL auction. I like the way you support us on booking-engine, I belive you will support me for this best peformer award.",
+    id: 'ram-ganesh', name: 'Ram', role: 'Product Manager', team: 'sports', persona: 'pm',
+    greeting: "Hi Ram, I'm really sorry for missing you in the RPL auction. I love the way you support us on the Booking Engine, and I believe you'll support me for this Best Performer award too.",
   },
   {
-    id: 'jayakumar', name: 'Jayakumar M', role: 'Business Operations Lead', team: 'sports', persona: 'ops',
-    greeting: 'Hey Bro, Recently we got know well about eachother, Thanks for the fun time we had together and I hope the success for Blue dental.',
+    id: 'jayakumar', name: 'Jayakumar', role: 'Business Operations Lead', team: 'sports', persona: 'ops',
+    greeting: "Hey bro, we've only recently gotten to know each other better — thanks for the fun times we've had together. Wishing you every success with Blue Dental!",
   },
   {
-    id: 'sruthy', name: 'Sruthy Nandagopal', role: 'Software Engineer', team: 'sports', persona: 'peer',
-    greeting: 'Hi {name}! Sports squad. Grab a seat — the reveal cards are warming up.',
+    id: 'sruthy', name: 'Sruthy', role: 'Software Engineer', team: 'sports', persona: 'peer',
+    greeting: `Hi Sruthy, "Handling things with a calm mind" — yes, I really admire that quality in you.`,
   },
   {
-    id: 'subashree', name: 'Subashree Subramanian', role: 'Customer Success Specialist', team: 'sports', persona: 'ops',
-    greeting: 'Hi {name}! You keep clients happy, I keep their booking-engine humming. Perfect pair.',
+    id: 'subashree', name: 'Subashree', role: 'Customer Success Specialist', team: 'sports', persona: 'ops',
+    greeting: "Hi Subashree, you do what you love — and that's what makes you unique. It was fun getting to know you, and yeah, let's cheers to another beer soon!",
   },
   {
-    id: 'supraja', name: 'Supraja Raghuraman', role: 'Sales Development Specialist', team: 'sports', persona: 'ops',
-    greeting: 'Hey {name}! You sell the dream, I ship it. Let’s close this vote together. 🤝',
+    id: 'supraja', name: 'Supraja', role: 'Sales Development Specialist', team: 'sports', persona: 'ops',
+    greeting: "Hey {name}! You sell the dream, I ship it. Let's close this vote together. 🤝",
   },
   {
     id: 'nivetha', name: 'Nivetha', role: 'Software Engineer', team: 'sports', persona: 'peer',
-    greeting: 'Hi {name}! Sports team represent. Ready for the highlight reel?',
+    greeting: "Hi Nivetha, we haven't talked much, but at the Christmas mom-child game I loved the way you carried the task with such sportiveness.",
   },
   {
-    id: 'aadhithya', name: 'Aadhithya S', role: 'Software Engineer', team: 'sports', persona: 'peer',
-    greeting: 'Hey {name}! Fellow engineer — you’ll respect the architecture, I promise.',
+    id: 'aadhithya', name: 'Aadhithya', role: 'Software Engineer', team: 'sports', persona: 'peer',
+    greeting: "Hey Aadhithya! I see you walking around with a laptop more often than a coffee mug — and that says a lot about your dedication. All the best in this campaign, bro!",
   },
   {
-    id: 'ashiey', name: 'Ashiey Fenn Joe Marshelinco', role: 'Business Development Lead', team: 'sports', persona: 'ops',
+    id: 'ashiey', name: 'Ashiey', role: 'Business Development Lead', team: 'sports', persona: 'ops',
     greeting: 'Hi {name}! You grow the business, I build what we sell. Stand-out synergy. 📈',
   },
 
   /* ---- Team Devloop (where the padawans live) ---- */
   {
-    id: 'ananthu', name: 'Ananthu Krishna C R', role: 'Software Engineer', team: 'devloop', persona: 'mentee',
-    greeting: 'Hi Bro, Hope you doing good, I realy felt easy while sharing work with last month, hoping to get back you on booking-engine.',
+    id: 'ananthu', name: 'Ananthu', role: 'Software Engineer', team: 'devloop', persona: 'mentee',
+    greeting: "Hi bro, hope you're doing good. I really felt at ease while working with you last month — hoping to get you back on the Booking Engine soon.",
   },
   {
-    id: 'sravana', name: 'Pisupati Sravana Durga', role: 'Software Engineer', team: 'devloop', persona: 'mentee',
-    greeting: 'Padawan {name}. The student returns to the source. Your guru has logged in. 🎓',
+    id: 'sravana', name: 'Sravana', role: 'Software Engineer', team: 'devloop', persona: 'mentee',
+    greeting: "Hi Sravana, we've been working closely recently and I love your spirit at work. Wishing you all the best in this campaign!",
   },
   {
-    id: 'narender', name: 'Narender S', role: 'Software Engineer', team: 'devloop', persona: 'peer',
-    greeting: 'Hey {name}! Devloop crew. Let me show you how the booking-engine sausage gets made.',
+    id: 'narender', name: 'Narender', role: 'Software Engineer', team: 'devloop', persona: 'peer',
+    greeting: 'Hey {name}! Devloop crew. Let me show you how the Booking Engine sausage gets made.',
   },
 
   /* ---- HR & Ops ---- */
   {
-    id: 'arul-steffi', name: 'Arul Steffi Muhilarasi', role: 'HR and Ops Manager', team: 'hr_admin', persona: 'ops',
-    greeting: 'Hi {name}! You run the people side, I run the product side. Both essential, clearly. 😄',
+    id: 'arul-steffi', name: 'Steffi', role: 'HR and Ops Manager', team: 'hr_admin', persona: 'ops',
+    greeting: "Hi Steffi, I still remember my first interview with you. Thanks for trusting me — I'll keep working hard to justify it.",
   },
   {
     id: 'tharun', name: 'Tharun', role: 'Administrative Specialist', team: 'hr_admin', persona: 'ops',
-    greeting: 'Hey {name}! You keep the admin tight, I keep the code... mostly tight. Let’s talk.',
+    greeting: 'Hey {name}! You keep the admin tight, I keep the code... mostly tight. Let\'s talk.',
   },
   {
-    id: 'hemaverthenee', name: 'Hemaverthenee Chandrashekhar', role: 'HR Associate', team: 'hr_admin', persona: 'ops',
-    greeting: 'Hi {name}! Welcome to the lab. Performance review season — and I came prepared. 😎',
+    id: 'hemaverthenee', name: 'Hemaverthenee', role: 'HR Associate', team: 'hr_admin', persona: 'ops',
+    greeting: "Heyyy Vice-Captain! You bring the same level of care and attention to our employees as you do to nurturing the office plants — beautifully.",
   },
   {
-    id: 'samyuktha', name: 'Samyuktha S', role: 'Accounts Associate', team: 'hr_admin', persona: 'ops',
-    greeting: 'Hiii Sam, un isai ya kekama bore adikuthu. missing those days.',
+    id: 'samyuktha', name: 'Samyuktha', role: 'Accounts Associate', team: 'hr_admin', persona: 'ops',
+    greeting: "Hiii Sam, Dedication = Samyuktha. Un isai ya kekama bore adikuthu. Let's sing together at your wedding soon!",
   },
   // Add more colleagues here. Give each a `team` matching a teams[].id,
   // a `persona` matching a personalization key, and their own `greeting`.
@@ -309,70 +309,128 @@ export const personalization = {
  *
  *   ⚠ Stats marked TODO are invented — replace with real numbers.
  * ------------------------------------------------------------------------- */
+// export const achievements = {
+//   bokun: {
+//     id: 'bokun',
+//     icon: '🔌',
+//     title: 'Bókun Channel Manager Integration',
+//     blurb:
+//       'Built the full Bókun integration — webhook handling, multi-booking (combo) support, payment-state logic, and client onboarding. A big, gnarly integration that just works.',
+//     stats: [
+//       { label: 'Webhook events handled', value: '20+', note: 'TODO: confirm count' }, // TODO real number
+//       { label: 'Combo bookings supported', value: 'Yes', note: 'multi-booking logic' },
+//       { label: 'Payment states modeled', value: '6', note: 'TODO: confirm count' }, // TODO real number
+//       { label: 'Clients onboarded', value: '5+', note: 'TODO: confirm count' }, // TODO real number
+//     ],
+//   },
+
+//   blackFriday: {
+//     id: 'blackFriday',
+//     icon: '🛒',
+//     title: 'Black Friday 2025 — Crore-Scale',
+//     blurb:
+//       'Think the booking-engine is a small project? On Black Friday 2025 it handled over ₹1 Crore worth of bookings without breaking a sweat. The engine didn’t flinch.',
+//     stats: [
+//       { label: 'Bookings handled', value: '₹1 Cr+', note: 'TODO: confirm exact figure' }, // TODO real number
+//       { label: 'Peak day', value: 'Black Friday', note: '2025' },
+//       { label: 'Downtime', value: '0', note: 'on the biggest day of the year' },
+//     ],
+//   },
+
+//   bookingEngine: {
+//     id: 'bookingEngine',
+//     icon: '🚀',
+//     title: 'Booking Engine v2',
+//     blurb:
+//       'Core product work on Booking Engine v2 — the engine room of the whole platform. Faster, cleaner, more capable.',
+//     stats: [
+//       { label: 'Version', value: 'v2', note: 'the sequel nobody skips' },
+//       { label: 'Core flows rebuilt', value: '8', note: 'TODO: confirm count' }, // TODO real number
+//       { label: 'Perf improvement', value: '~35%', note: 'TODO: confirm metric' }, // TODO real number
+//     ],
+//   },
+
+//   deployments: {
+//     id: 'deployments',
+//     icon: '🌊',
+//     title: 'Frontend Deployments — The Lagoon Tour',
+//     blurb:
+//       'Shipped frontends across a whole portfolio of clients: Laugarás, Forest Lagoon, Reykjaból, Earth Lagoon, and Mývatn Nature. Deployed across more lagoons than a geography textbook.',
+//     stats: [
+//       { label: 'Clients live', value: '5', note: 'Laugarás · Forest Lagoon · Reykjaból · Earth Lagoon · Mývatn' },
+//       { label: 'Lagoons', value: 'Several', note: 'geographically impressive' },
+//       { label: 'Rollback incidents', value: '0', note: 'TODO: confirm 😅' }, // TODO real number
+//     ],
+//   },
+
+//   mentorship: {
+//     id: 'mentorship',
+//     icon: '🎓',
+//     title: 'KT & Onboarding Sessions',
+//     blurb:
+//       'Ran knowledge-transfer and onboarding sessions for junior devs (hi Ananthu & Sravana). I don’t just write the code — I clone the expertise.',
+//     stats: [
+//       { label: 'Devs mentored', value: '2+', note: 'Ananthu, Sravana, & more' },
+//       { label: 'KT sessions', value: '10+', note: 'TODO: confirm count' }, // TODO real number
+//       { label: 'Guru rating', value: '5★', note: 'self-reported, very accurate' },
+//     ],
+//   },
+
+//   testing: {
+//     id: 'testing',
+//     icon: '🧪',
+//     title: 'The Testing Situation (A Confession)',
+//     blurb:
+//       'I have historically... trusted the code I write. Bugs are abstract art. Tests are for people who doubt themselves. CAMPAIGN PROMISE: I will finally start writing test cases.',
+//     stats: [
+//       { label: 'Tests written (past)', value: '~0', note: 'bold strategy' },
+//       { label: 'Bugs (claimed)', value: 'Art', note: 'not bugs, features with vision' },
+//       { label: 'Tests promised (future)', value: '∞', note: 'the manifesto' },
+//     ],
+//   },
+
+//   // Unlocked by the uptime + weekend-support questions.
+//   reliability: {
+//     id: 'reliability',
+//     icon: '⚡',
+//     title: 'Rock-Solid Reliability',
+//     blurb:
+//       'The booking-engine just stays up. 99%+ uptime, features shipped on time, and a product so stable it doesn’t even need weekend babysitting. No tests, no fear — just reliability you can stop worrying about.',
+//     stats: [
+//       { label: 'Uptime', value: '99%+', note: 'and climbing' },
+//       { label: 'On-time delivery', value: 'Always', note: 'deadlines respected' },
+//       { label: 'Weekend pages', value: '0', note: 'a good SaaS sleeps' },
+//     ],
+//   },
+
+//   // Unlocked by the Black Friday question.
+ 
+// }
+
 export const achievements = {
-  bokun: {
-    id: 'bokun',
-    icon: '🔌',
-    title: 'Bókun Channel Manager Integration',
+  reliability: {
+    id: 'reliability',
+    icon: '⚡',
+    title: 'Rock-Solid Reliability',
     blurb:
-      'Built the full Bókun integration — webhook handling, multi-booking (combo) support, payment-state logic, and client onboarding. A big, gnarly integration that just works.',
+      'The booking-engine just stays up. 99%+ uptime, features shipped on time, and a product so stable it doesn\'t even need weekend babysitting. No tests, no fear — just reliability you can stop worrying about.',
     stats: [
-      { label: 'Webhook events handled', value: '20+', note: 'TODO: confirm count' }, // TODO real number
-      { label: 'Combo bookings supported', value: 'Yes', note: 'multi-booking logic' },
-      { label: 'Payment states modeled', value: '6', note: 'TODO: confirm count' }, // TODO real number
-      { label: 'Clients onboarded', value: '5+', note: 'TODO: confirm count' }, // TODO real number
+      { label: 'Uptime', value: '99%+', note: 'and climbing' },
+      { label: 'Weekend pages', value: '0', note: 'a good SaaS sleeps' },
+      { label: 'Sleep lost', value: '0', note: 'not even on weekends' },
     ],
   },
 
-  bookingEngine: {
-    id: 'bookingEngine',
-    icon: '🚀',
-    title: 'Booking Engine v2',
+  blackFriday: {
+    id: 'blackFriday',
+    icon: '🛒',
+    title: 'Black Friday 2025 — High-Volume Heroics',
     blurb:
-      'Core product work on Booking Engine v2 — the engine room of the whole platform. Faster, cleaner, more capable.',
+      'Think the booking-engine is a small project? On Black Friday 2025 it handled 2500+ bookings without breaking a sweat. The engine didn\'t flinch.',
     stats: [
-      { label: 'Version', value: 'v2', note: 'the sequel nobody skips' },
-      { label: 'Core flows rebuilt', value: '8', note: 'TODO: confirm count' }, // TODO real number
-      { label: 'Perf improvement', value: '~35%', note: 'TODO: confirm metric' }, // TODO real number
-    ],
-  },
-
-  deployments: {
-    id: 'deployments',
-    icon: '🌊',
-    title: 'Frontend Deployments — The Lagoon Tour',
-    blurb:
-      'Shipped frontends across a whole portfolio of clients: Laugarás, Forest Lagoon, Reykjaból, Earth Lagoon, and Mývatn Nature. Deployed across more lagoons than a geography textbook.',
-    stats: [
-      { label: 'Clients live', value: '5', note: 'Laugarás · Forest Lagoon · Reykjaból · Earth Lagoon · Mývatn' },
-      { label: 'Lagoons', value: 'Several', note: 'geographically impressive' },
-      { label: 'Rollback incidents', value: '0', note: 'TODO: confirm 😅' }, // TODO real number
-    ],
-  },
-
-  bc365: {
-    id: 'bc365',
-    icon: '🔄',
-    title: 'BC365 Order Sync',
-    blurb:
-      'Backend integration syncing orders with Business Central 365 — the kind of plumbing nobody sees until it breaks. It does not break.',
-    stats: [
-      { label: 'Orders synced', value: '1000s', note: 'TODO: confirm volume' }, // TODO real number
-      { label: 'Sync direction', value: '2-way', note: 'TODO: confirm' }, // TODO real number
-      { label: 'Manual entry saved', value: 'Lots', note: 'TODO: quantify hours' }, // TODO real number
-    ],
-  },
-
-  mentorship: {
-    id: 'mentorship',
-    icon: '🎓',
-    title: 'KT & Onboarding Sessions',
-    blurb:
-      'Ran knowledge-transfer and onboarding sessions for junior devs (hi Ananthu & Sravana). I don’t just write the code — I clone the expertise.',
-    stats: [
-      { label: 'Devs mentored', value: '2+', note: 'Ananthu, Sravana, & more' },
-      { label: 'KT sessions', value: '10+', note: 'TODO: confirm count' }, // TODO real number
-      { label: 'Guru rating', value: '5★', note: 'self-reported, very accurate' },
+      { label: 'Bookings handled', value: '2500+', note: 'on the single biggest day' },
+      { label: 'Peak day', value: 'Black Friday', note: '2025' },
+      { label: 'Downtime', value: '0', note: 'on the biggest day of the year' },
     ],
   },
 
@@ -381,42 +439,53 @@ export const achievements = {
     icon: '🧪',
     title: 'The Testing Situation (A Confession)',
     blurb:
-      'I have historically... trusted the code I write. Bugs are abstract art. Tests are for people who doubt themselves. CAMPAIGN PROMISE: I will finally start writing test cases.',
+      'I have historically... trusted the code I write. Bugs are abstract art. Tests are for people who doubt themselves. And yet — clients almost never find bugs. Go figure.',
     stats: [
+      { label: 'Client-reported bugs', value: '~0', note: 'somehow' },
       { label: 'Tests written (past)', value: '~0', note: 'bold strategy' },
-      { label: 'Bugs (claimed)', value: 'Art', note: 'not bugs, features with vision' },
       { label: 'Tests promised (future)', value: '∞', note: 'the manifesto' },
     ],
   },
 
-  // Unlocked by the uptime + weekend-support questions.
-  reliability: {
-    id: 'reliability',
-    icon: '⚡',
-    title: 'Rock-Solid Reliability',
+  deadlines: {
+    id: 'deadlines',
+    icon: '📅',
+    title: 'Deadline? What Deadline?',
     blurb:
-      'The booking-engine just stays up. 99%+ uptime, features shipped on time, and a product so stable it doesn’t even need weekend babysitting. No tests, no fear — just reliability you can stop worrying about.',
+      'Some developers treat deadlines as suggestions. I treat them as facts. Features ship on time, every time — no heroics, no last-minute drama, just consistent delivery.',
     stats: [
-      { label: 'Uptime', value: '99%+', note: 'and climbing' },
       { label: 'On-time delivery', value: 'Always', note: 'deadlines respected' },
-      { label: 'Weekend pages', value: '0', note: 'a good SaaS sleeps' },
+      { label: 'Late deliveries', value: '0', note: 'not the style' },
+      { label: 'Panic commits at 11:59pm', value: 'Classified', note: '🤐' },
     ],
   },
 
-  // Unlocked by the Black Friday question.
-  blackFriday: {
-    id: 'blackFriday',
-    icon: '🛒',
-    title: 'Black Friday 2025 — Crore-Scale',
+  attendance: {
+    id: 'attendance',
+    icon: '📋',
+    title: 'DSM Attendance — Honest Edition',
     blurb:
-      'Think the booking-engine is a small project? On Black Friday 2025 it handled over ₹1 Crore worth of bookings without breaking a sweat. The engine didn’t flinch.',
+      'I\'m not a perfect-attendance trophy hunter. I miss DSM a few times — because sometimes the code needs more of me than the standup does. But when I\'m there, I\'m actually there.',
     stats: [
-      { label: 'Bookings handled', value: '₹1 Cr+', note: 'TODO: confirm exact figure' }, // TODO real number
-      { label: 'Peak day', value: 'Black Friday', note: '2025' },
-      { label: 'Downtime', value: '0', note: 'on the biggest day of the year' },
+      { label: 'Attendance rate', value: '~80%', note: 'TODO: confirm' },
+      { label: 'Times zoned out mid-standup', value: '0', note: 'present means present' },
+      { label: 'Perfection claimed', value: 'Never', note: 'just honest' },
     ],
   },
-}
+
+  bookingEngine: {
+    id: 'bookingEngine',
+    icon: '🚀',
+    title: 'Booking Engine v2',
+    blurb:
+      'Core product work on Booking Engine v2 — the engine room of the whole platform. ~35% of the codebase gets written or changed every quarter. Faster, cleaner, more capable every cycle.',
+    stats: [
+      { label: 'Version', value: 'v2', note: 'the sequel nobody skips' },
+      { label: 'Code churn per quarter', value: '~35%', note: 'constantly evolving' },
+      { label: 'Legacy rewrites', value: 'Ongoing', note: 'no place for the word Legacy' },
+    ],
+  },
+};
 
 /* ---------------------------------------------------------------------------
  * 6. QUESTIONS  — the interactive Q&A. Shown one at a time.
@@ -436,91 +505,144 @@ export const achievements = {
  *   ORDER MATTERS: questions appear top-to-bottom. General + matching
  *   personal questions are merged at runtime (see getQuestionsFor()).
  * ------------------------------------------------------------------------- */
+
 export const questions = [
   /* ---- GENERAL (everyone) ---- */
   {
     id: 'uptime',
     type: 'general',
-    prompt: 'Guess the uptime for the booking-engine?',
+    prompt: '🤔 Take a wild guess — what\'s the booking-engine\'s uptime?',
     options: [
-      { text: '80%', reply: 'Nope, don\'t judge a book by its cover. we have over 99%' },
-      { text: '95%', reply: 'Close, but not quite. The booking-engine is even more reliable.' },
-      { text: '99%', reply: 'Correct! The booking-engine is rock solid.' },
+      {
+        text: '80% — it\'s software, stuff happens',
+        reply: 'Ouch, that hurts. We\'re not running on hope and prayers here — it\'s 99%+. The engine barely blinks.',
+      },
+      {
+        text: '95% — pretty solid',
+        reply: 'Respectable guess, but we don\'t do "pretty solid." Try 99%+. Overachieving is kind of our thing.',
+      },
+      {
+        text: '99% — this guy knows his stuff',
+        reply: '🎯 Nailed it! 99%+ uptime, no drama, no midnight panic. Just a boring, beautiful, rock-solid engine.',
+      },
     ],
     reveal: 'reliability',
-    reactorNote: 'We take reliability seriously. Pulling uptime stats...',
+    reactorNote: 'Pulling uptime receipts...',
   },
+
   {
-    id: `bug-free`,
+    id: 'BlackFridaysupport',
     type: 'general',
-    prompt: 'How often do you think bugs are found by clients in the booking-engine?',
+    prompt: '🛒 Black Friday 2025 — the internet\'s hunger games. How many bookings did the engine handle without breaking a sweat?',
     options: [
-      { text: 'Rarely', reply: 'Not quite. The booking-engine is surprisingly reliable.' },
-      { text: 'Never', reply: 'Correct! The booking-engine is rock solid.' },
+      {
+        text: '1000+ — a decent day',
+        reply: 'A decent day? It was Black Friday! Try 2500+. The engine didn\'t even look up from its coffee.',
+      },
+      {
+        text: '2000+ — okay now we\'re talking',
+        reply: '🎉 2500+ bookings, zero downtime, zero drama. The engine handled Black Friday like it was a lazy Tuesday.',
+      },
+    ],
+    reveal: 'blackFriday',
+    reactorNote: 'Counting the Black Friday carnage (spoiler: we won)...',
+  },
+
+  {
+    id: 'bug-free',
+    type: 'general',
+    prompt: '🐛 Be honest — how often do clients find bugs in the booking-engine?',
+    options: [
+      {
+        text: 'Rarely — a bug here and there',
+        reply: 'I\'ll take "rarely" as a compliment, but the real answer is closer to never. Clients finding bugs? Not on my watch.',
+      },
+      {
+        text: 'Never — I refuse to believe otherwise',
+        reply: '✅ Correct and correct. No tests were harmed (or written) in the making of this bug-free engine. Don\'t ask how.',
+      },
     ],
     reveal: 'testing',
-    reactorNote: 'We take quality seriously. Pulling bug stats...',
+    reactorNote: 'Scanning bug reports... (this won\'t take long)',
   },
+
   {
     id: 'deadlines',
     type: 'general',
-    prompt: 'How often do you think I ship features on time?',
-    options: [
-      { text: 'Sometimes', reply: 'Not quite. I take deadlines seriously and ship on time.' },
-      { text: 'Always', reply: 'Correct! I take deadlines seriously and ship on time.' },
-    ],
-    reveal: 'bokun',
-    reactorNote: 'Booking-Engine is always on time.',
-  },
-  {
-    id: 'code-change',
-    type: 'general',
-    prompt: 'What is the percentage of code getting written/changed for every quarter?',
+    prompt: '📅 Deadlines — do I treat them like suggestions, or like laws of physics?',
     options: [
       {
-        text: '20%', reply: 'Not quite. The codebase is constantly evolving and improving.' },
-      { text: '35%', reply: 'Correct! The codebase is constantly evolving and improving.' },
-      { text: '50%', reply: 'We don\'t rewrite half the code every quarter, but it\'s a significant portion.' },
+        text: 'Sometimes on time — he\'s human, cut him some slack',
+        reply: 'I appreciate the grace, but I don\'t need it. Deadlines aren\'t suggestions in my world — they\'re the finish line.',
+      },
+      {
+        text: 'Always — this man does not miss',
+        reply: '🏁 Always. Every time. No exceptions. Some people have a to-do list. I have a done list.',
+      },
     ],
-    reveal: 'bookingEngine',
-    reactorNote: 'We keep the codebase fresh and evolving. No place for the word Legacy.',
+    reveal: 'deadlines',
+    reactorNote: 'Checking the delivery record...',
   },
+
   {
     id: 'DSM attendance',
     type: 'general',
-    prompt: 'How often do you think I attend the daily standup meetings?',
+    prompt: '☕ Daily standups — how often do you think I actually show up?',
     options: [
-     {text: 'Half the time', reply: 'Your right!!, you know me well'},
-      {text: 'Always', reply: 'Nope! I miss DSM few time.'},
+      {
+        text: 'Half the time — cameras off, vibes on',
+        reply: 'Ha! You know me too well. I\'m not a perfect-attendance kid — sometimes the code needs me more than the standup does.',
+      },
+      {
+        text: 'Always — disciplined developer, obviously',
+        reply: '😅 Sweet of you, but nope. I miss a few. I\'m a developer, not a morning person. When I\'m there though, I\'m actually there.',
+      },
     ],
-    reveal: 'mentorship',
-    reactorNote: 'I\'m not mister perfect, but I try to be there for the team.',
+    reveal: 'attendance',
+    reactorNote: 'Checking the attendance roll...',
   },
+
+  {
+    id: 'code-change',
+    type: 'general',
+    prompt: '🔄 What percentage of the codebase gets written or changed every quarter? (Hint: the word "legacy" makes me physically ill.)',
+    options: [
+      {
+        text: '20% — careful, deliberate changes',
+        reply: 'We move a bit faster than that. Careful is fine, but stagnant is not — it\'s closer to 35%.',
+      },
+      {
+        text: '35% — constantly shipping and evolving',
+        reply: '⚡ Exactly right! Every quarter, a third of the codebase gets touched, improved, or rebuilt. Legacy? Never heard of her.',
+      },
+      {
+        text: '50% — are they rewriting it from scratch?!',
+        reply: 'We\'re ambitious, not reckless. 35% is the sweet spot — fast enough to keep improving, stable enough to not terrify the clients.',
+      },
+    ],
+    reveal: 'bookingEngine',
+    reactorNote: 'Running git log to count the carnage...',
+  },
+
   {
     id: 'weekend-support',
     type: 'general',
-    prompt: 'How often do you think I support the team on weekends?',
+    prompt: '📵 Weekend support calls — how often does the booking-engine drag me away from my Saturday?',
     options: [
       {
-        text: 'rarely', reply: 'Correct!!, our product doesn\'t require much weekend supports.' },
-        { text: 'often', reply: 'Nope! Weekends are for rest, not work.' }
+        text: 'Rarely — it\'s a SaaS, not a baby',
+        reply: '🙌 Exactly the energy. A good product shouldn\'t need a babysitter on weekends, and ours doesn\'t. Saturdays are sacred.',
+      },
+      {
+        text: 'Often — on-call life is real',
+        reply: 'That\'s the old world. Our engine is stable enough that weekends are actually weekends. No pager, no panic, no problem.',
+      },
     ],
     reveal: 'reliability',
-    reactorNote: 'A good SAAS product should not require weekend support, and ours doesn\'t.',
+    reactorNote: 'Checking the weekend incident log (it\'s very short)...',
   },
-  {
-
-    id: 'BlackFridaysupport',
-    type: 'general',
-    prompt: 'If you think booking-engine is a small project, Guess how much worth of bookings we handled on Black Friday 2025?',
-    options: [
-      {
-        text: '40 Lacks', reply: 'Not close — think bigger.' },
-        { text: '1 Crore', reply: 'Correct! We handled over ₹1 Crore worth of bookings on Black Friday 2025. The engine didn\'t even flinch.' }
-    ],
-    reveal: 'blackFriday',
-    reactorNote: 'Black Friday is a big day for us, and the booking-engine handled it like a champ.' ,
-  },
+];
+  
 
 
   /* ---- PERSONALIZED ---- */
@@ -619,7 +741,6 @@ export const questions = [
   //   reveal: 'bc365',
   //   reactorNote: 'Syncing order ledger...',
   // },
-]
 
 /* ---------------------------------------------------------------------------
  * 7. HELPERS  — used by the app. You usually don't need to touch these.
