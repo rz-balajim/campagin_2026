@@ -25,12 +25,23 @@ export const candidate = {
   company: 'Roanuz',
   award: 'Stand-out Performer Award 2025–26',
   // Shown big on the landing hero:
-  tagline: 'The genius, smart, handsome developer.',
-  subTagline: 'Sometimes you gotta run before you can walk. — and I ship before I test.',
+  tagline: 'The genius, smart, handsome developer',
+  subTagline: 'Sometimes you gotta run before you can walk — and I ship before I test.',
   enterLabel: 'Initialize Arc Reactor',
   // Shown on the finale:
   voteCta: 'Vote Balaji',
   finaleLine: "I am Iron Dev. And I'd like to keep being your Stand-out Performer.",
+  // Heartfelt closing note on the finale screen (edit freely).
+  // Each array entry renders as its own paragraph:
+  thankNote: [
+    'Thank you for coming along on this campaign with me 🙏',
+    'Every integration, deployment, and late-night fix was a team effort — and honestly, your trust and support is what kept me running this whole time.',
+    "Win or lose, it's been an honour building with you all. But just so we're clear: I'm not saying vote for me… I'm just saying history remembers the people who shipped. 😎🏆",
+    "It's been a blast, RUMANS. 🚀",
+  ],
+  thankSignoff: '— Balaji',
+  // Hashtags shown at the very bottom of the finale (edit freely):
+  hashtags: ['#IronDev', '#TeamRoanuz', '#ShipItBalaji', '#CodeIsArt', '#StandoutPerformer'],
 }
 
 /* ---------------------------------------------------------------------------
