@@ -7,7 +7,7 @@ import { candidate, getPersona } from '../campaignData.js'
  *   visitor   : chosen colleague
  *   onRestart : reset back to the landing screen
  */
-export default function Finale({ visitor, onRestart }) {
+export default function Finale({ visitor, onRestart, onStats }) {
   const persona = getPersona(visitor.persona)
 
   return (
@@ -34,9 +34,16 @@ export default function Finale({ visitor, onRestart }) {
         ))}
       </ul>
 
-      <button className="btn btn--ghost" onClick={onRestart}>
-        ↺ Run it again
-      </button>
+      <div className="finale-actions">
+        {onStats && (
+          <button className="btn btn--primary" onClick={onStats}>
+            📊 See Mission Control
+          </button>
+        )}
+        <button className="btn btn--ghost" onClick={onRestart}>
+          ↺ Run it again
+        </button>
+      </div>
     </section>
   )
 }

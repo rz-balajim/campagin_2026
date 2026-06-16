@@ -3,7 +3,7 @@ import { candidate } from '../campaignData.js'
 /**
  * Landing — punchy hero. Iron Man vibe + the "Enter" button.
  */
-export default function Landing({ onEnter }) {
+export default function Landing({ onEnter, onStats }) {
   return (
     <section className="screen landing fade-in">
       <div className="arc-emblem" aria-hidden="true">
@@ -25,6 +25,12 @@ export default function Landing({ onEnter }) {
         {candidate.enterLabel}
         <span className="btn__pulse" aria-hidden="true" />
       </button>
+
+      {onStats && (
+        <button className="btn btn--ghost landing-stats-link" onClick={onStats}>
+          📊 View Mission Control →
+        </button>
+      )}
 
       <p className="hint">▾ proof of genius inside</p>
     </section>
