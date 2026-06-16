@@ -24,7 +24,7 @@ export const hero = {
   counters: [
     { value: 99.9, suffix: '%', decimals: 1, label: 'Uptime', icon: '⚡' },        // TODO: confirm real number
     { value: 40, suffix: '+', label: 'Features Shipped', icon: '🚀' },             // TODO: confirm real number
-    { value: 5, suffix: '', label: 'Clients Deployed', icon: '🌊' },               // TODO: confirm real number
+    { value: 4, suffix: '', label: 'Clients Deployed', icon: '🌊' },               // TODO: confirm real number
     { value: 50, suffix: '+', label: 'Bugs Fixed', icon: '🐛' },                  // TODO: confirm — was 0, that was awkward
   ],
 }
